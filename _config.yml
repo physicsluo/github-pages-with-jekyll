@@ -1,7 +1,6 @@
 ---
 title: "Welcome-to-my-blog"
-date: 2020-01-15
----
+date: 2020-01-1
 theme: minima
 author: GitHub User
 email: Test@github
@@ -13,3 +12,4 @@ twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
